@@ -1,0 +1,41 @@
+body{
+    background-color: #03091c;
+}
+
+.header{
+    margin-top: 15px;
+    
+}
+
+.signin{
+    color: white;
+    text-align: right;
+    margin-right: 40px;
+    
+    
+}
+
+.Header{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.signin{
+    position: absolute;
+    top: 10px;
+    left: 1600px;
+
+    
+}
+.signin2{
+    border-radius: 15px;
+}
+
+.signup{
+    position: absolute;
+    text-align: center;
+    left: 1750px;
+    top: 10px;
+
+}
