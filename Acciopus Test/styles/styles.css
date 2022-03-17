@@ -7,14 +7,6 @@ body{
     
 }
 
-.signin{
-    color: white;
-    text-align: right;
-    margin-right: 40px;
-    
-    
-}
-
 .Header{
     position: relative;
     top: 0;
@@ -28,7 +20,14 @@ body{
 
     
 }
-.signin2{
+
+.search{
+    position: absolute;
+    text-align: center;
+    left: 1400px;
+    top: 40px;
+    width: 150px;
+    height: 30px;
     border-radius: 15px;
 }
 
